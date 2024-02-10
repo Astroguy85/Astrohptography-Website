@@ -56,7 +56,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 Craig's Astrophotography | Designed by Craig</p>
+        <p>&copy; 2024 Craig's Astrophotography | Designed by Craig</p>
     </footer>
 </body>
 </html>
