@@ -39,24 +39,24 @@
 <body>
     <header>
         <h1>Craig's Astrophotography</h1>
-        <p>Exploring the cosmos through my lens</p>
+        <p></p>
     </header>
 
     <section>
         <h2>About Me</h2>
-        <p>Hi, I'm Craig, .</p>
+        <p>Hi, I'm Craig, I'm 38 and I live in British Columbia, Canada. I'm new to astrophotography and thought I would create a place to post my photos.</p>
     </section>
 
     <section>
         <h2>Gallery</h2>
         <!-- Add your astrophotography pictures here -->
-        <img src="path/to/image1.jpg" alt="Astrophotography Image 1">
-        <img src="path/to/image2.jpg" alt="Astrophotography Image 2">
+        <img src="C:\Users\twitch\Desktop\Astrophotography\Website_Images\M42_Orion_Nebula.jpg" alt="M42 Orion Nebula">
+        <img src="C:\Users\twitch\Desktop\Astrophotography\Website_Images\Moon.png" alt="Moon">
         <!-- Add more images as needed -->
     </section>
 
     <footer>
-        <p>&copy; 2023 Craig's Astrophotography | Designed by Craig</p>
+        <p>&copy; 2024 Craig's Astrophotography | Designed by Craig</p>
     </footer>
 </body>
 </html>
