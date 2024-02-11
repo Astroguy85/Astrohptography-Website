@@ -51,6 +51,7 @@
         <h2>Gallery</h2>
         <!-- Add your astrophotography pictures here -->
         <img src="C:\Users\twitch\Desktop\Astrophotography\Website_Images\M42_Orion_Nebula.jpg" alt="M42 Orion Nebula">
+        <img src="M42_Orion_Nebula.jpg"
         <img src="C:\Users\twitch\Desktop\Astrophotography\Website_Images\Moon.png" alt="Moon">
         <!-- Add more images as needed -->
     </section>
