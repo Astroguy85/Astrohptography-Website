@@ -44,7 +44,7 @@
 
     <section>
         <h2>About Me</h2>
-        <p>Hi, I'm Craig, a 38-year-old welder/mechanic from Canada. My passions include dirt biking and capturing the beauty of the night sky through astrophotography.</p>
+        <p>Hi, I'm Craig, .</p>
     </section>
 
     <section>
